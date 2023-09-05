@@ -15,7 +15,7 @@ public class Main {
         URL url = null;
         HttpURLConnection connection = null;
         int responseCode = 0;
-        String urlString = "https://api.chucknorris.io/jokes/random";
+        String urlString = "https://api.nationalize.io/?name=nathaniel";
 
 
         try {
